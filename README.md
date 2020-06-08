@@ -1,7 +1,7 @@
 # HSRL
 This repository provides a reference implementation of *GSDN-F* and *GSDN-EF* as described in the [paper](https://arxiv.org/abs/1902.06684) "Understanding Graph Neural Networks from Graph Signal Denoising Perspectives". 
 
-### Requirement
+### Requirements
 Install the following packages:
 
 - [pytorch](https://pytorch.org/get-started/locally/)
