@@ -11,8 +11,8 @@ Install the following packages:
 
 ### Basic Usage
 ```
-$ python gsdnf.py --input cora --output --alpha 0.6 --K 4 --epochs 200 --lr 0.02 --hidden_num 16
-$ python gsdnef.py --input cora --output --alpha 0.6 --K 4 --epochs 200 --lr 0.02 --hidden_num 16
+$ python gsdnf.py --input cora --alpha 0.6 --K 4 --epochs 200 --lr 0.02 --hidden_num 16
+$ python gsdnef.py --input cora --alpha 0.6 --K 4 --epochs 200 --lr 0.02 --hidden_num 16
 ```
 >noted: your can just checkout *gsdnf.py* and *gsdnef.py* to get what you want.
 
