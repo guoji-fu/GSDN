@@ -19,9 +19,8 @@ $ python gsdnef.py --input cora --alpha 0.6 --K 4 --epochs 200 --lr 0.02 --hidde
 ### Citing
 If you find *GSDN-F* and/or *GSDN-EF* useful in your research, please cite our paper:
 
-	@article{fu2020understanding,
-	 title={Understanding Graph Neural Networks from Graph Signal Denoising Perspectives},
-	 author={Fu, Guoji and Hou, Yifan and Zhang, Jian and Ma, Kaili and Kamhoua, Barakeel Fanseu and Cheng, James},
-	 journal={arXiv preprint arXiv:2006.04386},
-	 year={2020}
-	} 
+	@misc{2006.04386,
+		Author = {Guoji Fu and Yifan Hou and Jian Zhang and Kaili Ma and Barakeel Fanseu Kamhoua and James Cheng},
+		Title = {Understanding Graph Neural Networks from Graph Signal Denoising Perspectives},
+		Year = {2020},
+	}
