@@ -21,7 +21,7 @@ If you find *GSDN-F* and/or *GSDN-EF* useful in your research, please cite our p
 
 	@article{fu2020understanding,
 	 title={Understanding Graph Neural Networks from Graph Signal Denoising Perspectives},
-	 author={Fu, Guoji and Hou, Yifan and Zhang, jian and Ma, Kaili and Kamhoua, Barakeel Fanseu and Cheng, James},
+	 author={Fu, Guoji and Hou, Yifan and Zhang, Jian and Ma, Kaili and Kamhoua, Barakeel Fanseu and Cheng, James},
 	 journal={arXiv preprint arXiv:2006.04386},
 	 year={2020}
 	} 
