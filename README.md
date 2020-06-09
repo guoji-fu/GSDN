@@ -1,5 +1,5 @@
 # GSDN-F and GSDN-EF
-This repository provides a reference implementation of *GSDN-F* and *GSDN-EF* as described in the [paper](https://arxiv.org/abs/1902.06684) "**Understanding Graph Neural Networks from Graph Signal Denoising Perspectives**". 
+This repository provides a reference implementation of *GSDN-F* and *GSDN-EF* as described in the [paper](https://arxiv.org/abs/2006.04386) "**Understanding Graph Neural Networks from Graph Signal Denoising Perspectives**". 
 
 ### Requirements
 Install the following packages:
@@ -22,6 +22,6 @@ If you find *GSDN-F* and/or *GSDN-EF* useful in your research, please cite our p
 	@article{fu2020understanding,
 	 title={Understanding Graph Neural Networks from Graph Signal Denoising Perspectives},
 	 author={Fu, Guoji and Hou, Yifan and Zhang, jian and Ma, Kaili and Kamhoua, Barakeel Fanseu and Cheng, James},
-	 journal={arXiv preprint arXiv:1902.06684},
+	 journal={arXiv preprint arXiv:2006.04386},
 	 year={2020}
 	} 
